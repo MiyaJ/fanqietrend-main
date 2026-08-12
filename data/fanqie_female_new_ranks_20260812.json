@@ -1,86 +1,8 @@
 {
-  "type": "all",
   "date": "2026-08-12",
-  "prev_date": "2026-08-11",
   "categories": [
     {
       "name": "古风世情",
-      "trend": {
-        "new_count": 9,
-        "dropped_count": 9,
-        "new_books": [
-          "穿成带娃尼姑，渣爹逼我去冲喜",
-          "大都护命硬，夫人尽管来克",
-          "借尸还魂：皇上请自重",
-          "病娇魔教教主的掌心宠",
-          "探花郎的三餐四季"
-        ],
-        "dropped_books": [
-          {
-            "title": "公主，不可以",
-            "intro": "世人都说，商国首辅温文尔雅，是难得的君子，可在商柔眼里，他就是披着羊皮的狼，就是扮猪吃老虎的主（外加老混蛋）。 商柔贵为公主，从小娇生惯养，得知自己要被送去和亲，于是私下找首辅，她曾经的师长商量办法。"
-          },
-          {
-            "title": "尚宫有旧婚",
-            "intro": "她是执掌六局的御前尚宫，人人敬她清冷孤高。 没人知晓，她早与禁军将领陆骁定下终身。乱世误会写下和离书，从此宫墙相隔。 当朝野商议为他另择世家妻室，她黯然离场。 不料他拦在府门，笑唤她本名：婚书尚在，你"
-          },
-          {
-            "title": "小娇娘竟来自未来特种部队",
-            "intro": "这是一个现代女子特种兵在古代冷兵器战场上降维打击的故事。也是一个现代人思维进行古代争宠的故事，更是一个人在被全世界抛弃之后，不靠任何人、一步一步走上巅峰的故事。"
-          },
-          {
-            "title": "少卿大人，今天被亲了吗",
-            "intro": "边境长大的弃婴云满，武艺高强，年满18被师傅赶下山给师姑送信，因为爱吃且囊中羞涩找了份护卫的活儿，路上贪图美貌救了麻烦不断的谢临舟，由此发生的一系列故事...."
-          },
-          {
-            "title": "炮灰美人又坏又毒，失忆侯爷沦陷",
-            "intro": "【双洁➕不内耗恶毒娇蛮虚荣女主vs看似老实心眼子多如筛子心狠毒辣恋爱脑男主】 　　成曦穿书了。 　　穿成书里的恶毒女配，对失忆男主骗身骗心，为了荣华富贵死活跟着恢复记忆的男主上京，不断作死下成功英年早"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "表哥他正得发邪",
-            "change": "+5"
-          },
-          {
-            "title": "父皇别凶，儿臣知错了",
-            "change": "+2"
-          },
-          {
-            "title": "恶毒女背叛傻子老好人夫君后",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "我都中状元了，你说我是公主？",
-            "change": "-1"
-          },
-          {
-            "title": "说好相敬如宾，首辅他却真香了",
-            "change": "-1"
-          },
-          {
-            "title": "忠臣之女回京，满朝哭唧唧追着宠",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "恶毒女背叛傻子老好人夫君后",
-            "growth": "+3000"
-          },
-          {
-            "title": "探花郎夫人重生后",
-            "growth": "+3000"
-          },
-          {
-            "title": "父皇别凶，儿臣知错了",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n\"追妻火葬场\"和\"病娇偏执男主\"持续霸榜，前十中过半涉及破镜重圆、先虐后甜套路；女扮男装/女帝叙事热度不减，《中状元》《女扮男装》分别居二三位。先婚后爱、寄人篱下表兄妹等经典桥段仍有稳定受众。\n**📖 读者偏好**\n高在读作品集中于强情绪钩子：前世背叛、误会分离、男主追悔莫及。简介普遍强调\"双洁1v1\"\"追妻\"\"火葬场\"等关键词，甜虐交织、强制爱、带球跑/追逃设定吸量显著。简介自带的虐心度和男主偏执程度成为留存关键。\n**🆕 新上榜作品**\n新面孔集中在差异化设定：美食穿朝堂（《探花郎的三餐四季》）、大女主复仇（《穿成带娃尼姑》）、养成系病娇甜宠（《病娇魔教教主》），尝试跳出传统言情框架。\n**📉 掉出榜单**\n掉榜作品以传统甜宠和穿越军事为主，显示同质化甜宠和简单穿越壳子竞争力下滑。\n**💡 值得关注**\n《探花郎的三餐四季》用美食元素嫁接朝堂权谋，是少见的新鲜组合；《大都护命硬》回归纯古言先婚后爱，节奏紧凑，值得跟踪长线走势。"
-      },
       "books": [
         {
           "title": "恶毒女背叛傻子老好人夫君后",
@@ -246,63 +168,6 @@
     },
     {
       "name": "科幻末世",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "抽皮肤抽到丧尸位面后我上交了",
-          "别惹小祖宗！星际战神竟是女儿奴"
-        ],
-        "dropped_books": [
-          {
-            "title": "末世：我抢了女主的万人迷光环",
-            "intro": "【末世+丧尸+异能+弹幕+系统+万人迷+打脸+爽文+炮灰逆袭】 阻止继兄救女主，被弹幕骂飞，宋漓才知道自己是末世小说里的炮灰女配。 觉醒的第一时间，她意外绑定了女主的系统。 背靠系统，宋漓一点一点变得"
-          },
-          {
-            "title": "穿成末日阴湿病娇反派的恶毒前妻",
-            "intro": "【穿书末日|偏执救赎|浪漫怪诞|双洁甜宠】 【温柔社恐妹宝❌阴湿男鬼反派】 - 熬夜写论文晕倒后，唐瑶再次睁眼，发现自己竟穿成了一本诡异复苏文反派的恶毒前妻。 作为书里活不过三章的炮灰女配，她嫌贫爱富"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "糟糕末世：系统给我发了五个疯批",
-            "change": "+3"
-          },
-          {
-            "title": "末日死考：七岁丧尸王也要考试？",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "末世经营：四位大佬蹲我小店打杂",
-            "change": "-2"
-          },
-          {
-            "title": "星际第一躺平学大师",
-            "change": "-1"
-          },
-          {
-            "title": "天灾末世，穷鬼一家提前三年囤货",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "糟糕末世：系统给我发了五个疯批",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "穿进末世，我靠装弱，苟成最强",
-            "growth": "+9000"
-          },
-          {
-            "title": "废土：我能看见万物数据",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "<think>Let me analyze this data carefully and produce a structured report.\n\nLooking at the top 20 books in 番茄小说 (Tomato Novel) \"科幻末世\" category:\n\nKey observations:\n- Many books feature 穿书 (transmigration into books), 重生 (rebirth), 系统 (system), 空间 (space/storage)\n- 囤货 (stockpiling) theme is popular\n- 女强/大女主 (strong female protagonist) elements\n- 星际 (interstellar) sub-genre mixing with 末世 (apocalypse)\n- 双男主/多男主 (multiple male leads) is a trend\n- 团宠 (group pampering) is recurring\n- 末世+甜宠 (apocalypse + sweet romance)\n\nTop 5 are all above 6万 in reads, showing strong popularity.\n\nNew entries:\n- 《抽皮肤抽到丧尸位面后我上交给了》- 多位面穿越+强国+上交国家\n- 《别惹小祖宗！星际战神竟是女儿奴》- 星际+重生+团宠\n\nDropped:\n- 《末世：我抢了女主的万人迷光环》- 万人迷+弹幕\n- 《穿成末日阴湿病娇反派的恶毒前妻》- 阴湿反派+穿书\n\nRising:\n- 《糟糕末世：系统给我发了五个疯批》+3 - 搞笑+系统+1v多\n- 《末日死考：七岁丧尸王也要考试？》+2 - 丧尸王+幼崽+考试\n\nFalling:\n- 《末世经营：四位大佬蹲我小店打杂》-2\n- 《星际第一躺平学大师》-1\n- 《天灾末世，穷鬼一家提前三年囤货》-1\n\nDifferentiated works to watch:\n- 《末日死考：七岁丧尸王也要考试？》 - 丧尸王+儿童+高概念设定\n- 《抽皮肤抽到丧尸位面后我上交了》 - 多位面+上交国家，新颖脑洞\n- 《真千金在星际杀穿了》- 群像+军校\n\nLet me structure this according to format. Each section 2-3 sentences, total ≤250 words (in Chinese).</think>\n\n**🔥 题材趋势**\n末世题材高度内卷，穿书、重生、系统、空间成\"四件套\"，几乎新书必备。囤"
-      },
       "books": [
         {
           "title": "穿进末世，我靠装弱，苟成最强",
@@ -468,55 +333,6 @@
     },
     {
       "name": "游戏体育",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "女巫别怕！玩家来救你了",
-            "change": "+2"
-          },
-          {
-            "title": "荒海求生：我靠杂货铺躺赢",
-            "change": "+2"
-          },
-          {
-            "title": "这难道不是乙女游戏？",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "别惹那个榜一，她比游戏还阴",
-            "change": "-3"
-          },
-          {
-            "title": "国运求生：我靠御兽杀穿莽荒啦",
-            "change": "-2"
-          },
-          {
-            "title": "全息游戏当神偷，偷完他的偷你的",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "公路求生：开局抽中旅游餐车",
-            "growth": "+3000"
-          },
-          {
-            "title": "女巫别怕！玩家来救你了",
-            "growth": "+2000"
-          },
-          {
-            "title": "求生游戏：我在童话森林盖树屋",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "<think>The user wants a structured analysis of the top 20 new books chart for the \"游戏体育\" (Games/Sports) category on 番茄小说 (Tomato Novel). Let me analyze the data carefully.\n\nLooking at the chart, I need to identify:\n1. Common themes and trends\n2. Reader preferences\n3. New entries and exits\n4. Notable differentiated works\n\nLet me categorize the books:\n- Survival games (全民求生/公路求生/荒海求生): Books 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 16, 18, 19, 20 (majority!)\n- Game invasion: Books 8, 9, 12, 17\n- Otome/乙女游戏: Book 2\n- Game companion/电竞: Book 15\n- Non-game romance with game setting: Book 1 (万人嫌反派 - has 白月光, 马甲 elements but seems more like 玄幻/系统文)\n\nWait, Book 1 seems odd for this category - it's about a \"管理局头号走狗\" with 马甲 elements. But it's on the chart, so maybe the platform categorizes it under game/sports due to system/穿越 elements.\n\nActually looking more carefully, this is the \"游戏体育\" (Games/Sports) category. Many of these are \"求生游戏\" (survival games) which is a huge subgenre.\n\nKey themes:\n- 求生游戏 (survival game) - extremely dominant, probably 14+ of 20\n- 系统文 (system) - almost universal\n- 无CP (no romance) - very common\n- 女强 (strong female) - very common\n- 全民/全球 (global scale) - common\n- 金手指/欧皇 (golden fingers/lucky protagonist) - common\n- 囤货/基建 (stockpiling/base-building) - common\n\nVariations in survival games:\n- 公路求生 (highway survival) - books 4, 6, 7\n- 荒海求生 (sea survival) - book 16\n- 沙漠求生 (desert survival) - book 5\n- 海岛求生 (island survival) - book 19\n- 童话森林 (fairy tale forest) - book 11\n- 荒岛 (desert island) - book </think>"
-      },
       "books": [
         {
           "title": "万人嫌反派炮灰成了早逝白月光",
@@ -682,67 +498,6 @@
     },
     {
       "name": "女频衍生",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "奔跑吧：添鹿篇",
-          "穿书进长明宗，我师妹是叶翘"
-        ],
-        "dropped_books": [
-          {
-            "title": "综影视之剧情有我不用愁",
-            "intro": "【综影视+不固定CP+利己+女主成长型+系统+不莫名黑原男女主+会拆cp+会生孩子】 普通社畜林岚猝死的时候遇到系统006，前往各个小世界做任务。 林岚的唯一目标就是做任务，换功德，成逍遥仙。 至于其"
-          },
-          {
-            "title": "快穿：疯批偏执爱是我的顶级食粮",
-            "intro": "【新书刚出分，后面会涨。有那些癫狂小说☆有踪影视#病态占有欲 #情感置换 #无圣母不救赎 #不洗白渣男 #古早狗血虐恋 #拉扯博弈、无救赎】【有时候洁，有时候双不洁，看心情】 偏执、疯批、强制爱、白切"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "张瑞朴！你快来管管你大侄女",
-            "change": "+2"
-          },
-          {
-            "title": "惊悚：熟读甄嬛传剧情的我杀疯了",
-            "change": "+1"
-          },
-          {
-            "title": "综影视：开局抽到小纸人",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "霍格沃兹的万人迷植物大师",
-            "change": "-3"
-          },
-          {
-            "title": "港综：我靠拍电影养乌鸦",
-            "change": "-1"
-          },
-          {
-            "title": "洪荒：重生通天，两位兄长太宠我",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "张瑞朴！你快来管管你大侄女",
-            "growth": "+7000"
-          },
-          {
-            "title": "穿成依萍，我带雪姨制霸上海滩",
-            "growth": "+6000"
-          },
-          {
-            "title": "惊悚：熟读甄嬛传剧情的我杀疯了",
-            "growth": "+6000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n盗墓/张家宇宙占据头部，前四名中三本属此IP，综影视快穿仍是腰部主力但掉榜风险加大。洪荒封神同人（如重生通天）持续输出，全新洪荒题材仍有空间。\n\n**📖 读者偏好**\n大IP同人+团宠/爽文/救赎组合最吸量，甄嬛传、南部档案、HP三大常青树稳定在读数据。读者偏好\"穿成原剧弱势角色后强势改命\"的反套路叙事，无cp与1v1并存。\n\n**🆕 新上榜作品**\n《奔跑吧：添鹿篇》切入综艺甜宠赛道，差异化竞争；《穿书进长明宗》填补女频一剑星河渡同人空白，但均缺乏头部IP加持，需观察后续走势。\n\n**📉 掉出榜单**\n两本综影视快穿同时掉榜，显示该赛道内部竞争白热化，题材重叠度高导致后劲不足。\n\n**📉 掉出榜单**\n两本综影视快穿同掉出，头部IP红利消退，题材同质化加速洗牌。\n\n**💡 值得关注**\n《惊悚：熟读甄嬛传剧情的我杀疯了》将甄嬛传与规则怪谈、国运游戏融合，排名+1上升，为经典IP提供新切口，可关注其后续数据。"
-      },
       "books": [
         {
           "title": "南部档案：重生后全演上了",
@@ -908,62 +663,6 @@
     },
     {
       "name": "玄幻言情",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "成镇国小麒麟，暴君满朝宠疯了"
-        ],
-        "dropped_books": [
-          {
-            "title": "死遁入敌对魔宗，师兄们悔疯了",
-            "intro": "【新书刚出评分都低，会涨】 宁浅浅为师兄们倾尽一切，为守护宗门甚至不惜献祭毕生修为。 一路躺赢的小师妹动动嘴皮子就成了大女主。 她却成了师兄们口中的毒妇，师尊眼里的孽徒。 结局是——作为妖女被小师妹一"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "危！刚飞升我就杀了天帝？",
-            "change": "+2"
-          },
-          {
-            "title": "当我同时绑定好孕系统和天命系统",
-            "change": "+2"
-          },
-          {
-            "title": "全班穿越洪荒，唯有我登阶成圣",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "魔法：被迫组队后高冷队长沦陷了",
-            "change": "-3"
-          },
-          {
-            "title": "盗墓，满级古武麒麟女杀疯了",
-            "change": "-1"
-          },
-          {
-            "title": "8小时修仙，老娘卷哭全世界",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "当我同时绑定好孕系统和天命系统",
-            "growth": "+7000"
-          },
-          {
-            "title": "洪荒，阐教小师妹后台太硬",
-            "growth": "+4000"
-          },
-          {
-            "title": "出生就被淹死，我靠模拟改命",
-            "growth": "+4000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n洪荒/封神同人统治榜单，前十占三席且均呈上升态势。女强+穿书+系统依然是核心公式，抽卡、好孕、模拟器等花式金手指层出。\n\n**📖 读者偏好**\n无cp女强爽文与多男主修罗场并存，后者如《小师妹绿茶满级》精准击中猎奇心理。萌宠团宠+全员读心类轻喜剧（如龙崽心声）势头良好。\n\n**🆕 新上榜作品**\n《成镇国小麒麟，暴君满朝宠疯了》以脑洞萌宠+暴君反差切入，延续\"团宠+基建\"模板，适合碎片化阅读。\n\n**📉 掉出榜单**\n《死遁入敌对魔宗，师兄们悔疯了》掉榜，反映\"追悔火葬场\"模板热度退潮，读者更倾向创新设定。\n\n**💡 值得关注**\n《当我同时绑定好孕系统和天命系统》结合变嫁+好孕+多男主，排名+2，小众高粘性赛道值得跟踪；《危！刚飞升我就杀了天帝》反英雄叙事+2，爽感升级。"
-      },
       "books": [
         {
           "title": "抽卡召旧族，炮灰她掀了修真界",
@@ -1129,62 +828,6 @@
     },
     {
       "name": "种田",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "盲雌一睁眼，周围全是大佬兽夫"
-        ],
-        "dropped_books": [
-          {
-            "title": "带异能穿女尊开局被退婚？",
-            "intro": "【女尊＋空间＋逃荒＋科举＋1vn】 末世第八年，江言昭被同父异母的妹妹从背后捅了一刀。 再睁眼，她成了女尊国一个刚被退婚的穷书生。未婚夫嫌她体弱多病、科举无望，上门撕了庚帖。她反手把退婚书撕了，先敲了"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "穿成流放罪臣的恶毒妻",
-            "change": "+6"
-          },
-          {
-            "title": "家徒四壁我养活两个兽世哥哥",
-            "change": "+1"
-          },
-          {
-            "title": "兽世团宠：幼崽的基建囤货日常",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "养女害死全家，老太重生剥她皮",
-            "change": "-4"
-          },
-          {
-            "title": "开局逃荒农家长姐有空间",
-            "change": "-3"
-          },
-          {
-            "title": "不好了！小姑她又又又尿床了！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "小通房乱世带球跑",
-            "growth": "+7000"
-          },
-          {
-            "title": "重生妹妹抢亲？我换亲嫁糙汉暴富",
-            "growth": "+7000"
-          },
-          {
-            "title": "穿成流放罪臣的恶毒妻",
-            "growth": "+6000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n逃荒+空间+基建仍是绝对主流，前五占四席。兽世甜宠持续渗透，雌尊/救赎向细分市场稳定。流放题材异军突起，《穿成流放罪臣的恶毒妻》暴涨+6位。\n\n**📖 读者偏好**\n偏爱\"穿成恶毒/炮灰女配洗白逆袭\"的爽感叙事，搭配医术/空间金手指形成差异化。家长里短+发家致富+无极品是流量密码。\n\n**🆕 新上榜作品**\n《盲雌一睁眼，周围全是大佬兽夫》延续兽世多男主甜宠+治愈日常模板，赛道拥挤但受众稳定。\n\n**📉 掉出榜单**\n《带异能穿女尊开局被退婚？》掉出，女尊+1vn组合在种田分类竞争力偏弱。\n\n**💡 值得关注**\n《穿成流放罪臣的恶毒妻》+6跃升幅度最大，将流放+医术+恶女洗白结合，为种田文提供新蓝海；《霸王龙孵蛋》方言+恐龙+团宠的离谱组合数据稳健，验证种田文边界正在拓宽。"
-      },
       "books": [
         {
           "title": "小通房乱世带球跑",
@@ -1350,67 +993,6 @@
     },
     {
       "name": "年代",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "拿继妹照片相亲，冷面军官掐腰宠",
-          "村女刘丽"
-        ],
-        "dropped_books": [
-          {
-            "title": "六零吃百家饭长大我成了科研大佬",
-            "intro": "（评分低是因为刚开分）【有cp+年代土著+家长里短+学霸】 陈松果生下来就成了孤儿，被村里的人一家一口饭养大。 后来偶然发现陈松果聪明得厉害，大家拍案决定送五岁松果上学。 拿成绩单时，村里人个个都抢着"
-          },
-          {
-            "title": "60年代可爱调皮的胖圆子有奇遇",
-            "intro": "分数刚出。属性【年代+架空+轻松+脑洞】本文前期更偏群像些。 “爹，回来了，那些人怎么样了？怎么这丫头也跟你一起回来了？”周卫国这会也回来了，正在院子里劈柴，看到老爹抱着自己的胖闺女回来，后面还跟着那"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "意外穿纽约，被顶级豪门全员偏宠",
-            "change": "+4"
-          },
-          {
-            "title": "七零年代病佳人把偏执男哄迷糊了",
-            "change": "+3"
-          },
-          {
-            "title": "首长你胖村姑媳妇带龙凤胎随军了",
-            "change": "+3"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "七零，拒绝换亲被疯批糙汉强宠",
-            "change": "-3"
-          },
-          {
-            "title": "穿成了年代文女主的贵人",
-            "change": "-2"
-          },
-          {
-            "title": "糙汉军官在大西北养了个娇气包",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "七零：成了农村耀祖亲生的崽",
-            "growth": "+1.4万"
-          },
-          {
-            "title": "七零年代病佳人把偏执男哄迷糊了",
-            "growth": "+9000"
-          },
-          {
-            "title": "带娃上军区找爹，改造前夫被亲哭",
-            "growth": "+4000"
-          }
-        ],
-        "summary": "**🔥 题材趋势** 七零年代军婚+甜宠穿越仍是绝对主力，穿书女配逆袭题材占据头部。灵泉空间、糙汉军官、真假千金等经典元素高频复用，丰腴美人设定逐渐走红。\n**📖 读者偏好** 偏爱强情节反差\"恶毒女配\"洗白或翻身类叙事，\"先婚后爱+随军+带娃\"组合最受欢迎。读者对\"偏执军官\"\"病娇疯批\"男主标签有明显追逐。\n**🆕 新上榜作品** 《拿继妹照片相亲，冷面军官掐腰宠》延续冷面军官+娇媚作精模板；《村女刘丽》回归朴素村女逆袭路线，差异化突围。\n**📉 掉出榜单** 两部作品均自评\"刚开分会涨\"，掉榜印证纯年代土著/群像慢热题材竞争力不足。\n**💡 值得关注** 上升作品中架空跨域题材（穿纽约豪门）排名飙升+4，提示年代文正在打破地域边界，融合豪门元素。"
-      },
       "books": [
         {
           "title": "穿越七零，我成了女主的恶毒继姐",
@@ -1576,62 +1158,6 @@
     },
     {
       "name": "现言脑洞",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "恶毒女二被男主错认成女主后"
-        ],
-        "dropped_books": [
-          {
-            "title": "天幕：古人围观我带萌娃环游世界",
-            "intro": "【历史脑洞+萌娃+系统+天幕直播+环游世界】 刘含章精神分裂有一段了，幻听是家常便饭。 直到那天，一个脏兮兮的小孩出现在她衣帽间。 什么意思？这小孩竟然自称来自大业年间？ 警察上门：“这是你昨天收养的"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "从零开始拯救主角",
-            "change": "+3"
-          },
-          {
-            "title": "穿越星际兽世：成为虚拟偶像顶流",
-            "change": "+3"
-          },
-          {
-            "title": "神豪系统：伪装有钱人我暴富啦",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "双重生后，我考公上岸了",
-            "change": "-3"
-          },
-          {
-            "title": "天幕：世民无长兄，朱棣无大侄",
-            "change": "-3"
-          },
-          {
-            "title": "重生，抢男女主机缘",
-            "change": "-3"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "神豪系统：伪装有钱人我暴富啦",
-            "growth": "+1.7万"
-          },
-          {
-            "title": "高武：把敌人掰弯就变强",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "绑定接吻系统，咋都嘬上瘾了",
-            "growth": "+1.0万"
-          }
-        ],
-        "summary": "**🔥 题材趋势** 穿书+万人迷+修罗场仍是核心范式，弹幕、雄竞、虚拟偶像等新元素持续渗透。星际兽世、血族学院等异世界框架为脑洞题材提供新容器。\n**📖 读者偏好** 强人设、高密度钩子、密集反转的\"快节奏\"叙事最受欢迎。\"系统流+女主利己\"人设显著抬头，女主不再圣母。\n**🆕 新上榜作品** 《恶毒女二被男主错认成女主后》走错认+吐槽+甜宠轻喜剧路线，以日常向调剂榜单重口味。\n**📉 掉出榜单** 天幕历史脑洞题材掉出，反映该细分赛道竞争加剧、新书迭代快。\n**💡 值得关注** 上升作品《从零开始拯救主角》+3凭借漫画+群像+非爽文定位逆袭，显示读者对\"反套路脑洞\"有较高接受度。"
-      },
       "books": [
         {
           "title": "小炮灰变美后，抢了财阀太子爷",
@@ -1797,58 +1323,6 @@
     },
     {
       "name": "宫斗宅斗",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "媚骨：公主她当真祸水！"
-        ],
-        "dropped_books": [
-          {
-            "title": "穿成高门嫡女后我只想美美地活着",
-            "intro": "（避雷：无狗血宅斗、无复仇打脸也不是什么智斗爽文，追求快节奏打脸爽文的慎入！！男女主都不是什么完美人设！！！！古代架空文，不是很严谨，大家看个开心就好，觉得不合口味的直接左上角退出~ 作者比较玻璃心，"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "女扮男装做夫子，被权贵们抢疯了",
-            "change": "+3"
-          },
-          {
-            "title": "穿成炮灰后：每天都被男主堵床角",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "奉旨成婚后，糙汉将军日日洗床单",
-            "change": "-2"
-          },
-          {
-            "title": "叹金缕",
-            "change": "-2"
-          },
-          {
-            "title": "本公主有新欢，摄政王你慌什么",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "穿成炮灰后：每天都被男主堵床角",
-            "growth": "+8000"
-          },
-          {
-            "title": "让我做妾？八千禁卫迎我回宫",
-            "growth": "+5000"
-          },
-          {
-            "title": "女扮男装做夫子，被权贵们抢疯了",
-            "growth": "+4000"
-          }
-        ],
-        "summary": "**🔥 题材趋势** 穿书+系统+生子/好孕题材占据头部三席，强取豪夺+上位者低头已成标配。万年梗\"绝嗣王爷/皇帝\"持续翻红。\n**📖 读者偏好** 偏爱高张力情感冲突与权力博弈结合，\"训狗\"\"雄竞\"\"追妻火葬场\"标签点击率高。女主须有金手指加持。\n**🆕 新上榜作品** 《媚骨：公主她当真祸水！》以1vN万人迷+男全洁+千变女主切入，融合多种热门标签。\n**📉 掉出榜单** 《穿成高门嫡女后我只想美美地活着》掉出，印证\"无狗血无爽文\"路线在宫斗宅斗赛道的生存压力。\n**💡 值得关注** 上升作品《女扮男装做夫子》+3靠强取豪夺男全洁逆袭，提示\"禁忌师生/身份伪饰\"题材仍有市场。"
-      },
       "books": [
         {
           "title": "入宫即高位，我是陛下表妹我怕谁",
@@ -2014,62 +1488,6 @@
     },
     {
       "name": "悬疑脑洞",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "盗墓：我就是个拿画笔的"
-        ],
-        "dropped_books": [
-          {
-            "title": "从南部档案馆靠签到混成九门团宠",
-            "intro": "(评分刚出♥) 【盗笔同人+南部档案+爆笑日常+签到系统+老九门+弥补遗憾】 穿越盗笔宇宙，成了张家籍籍无名的小透明张幺幺。本以为要卷入长生阴谋，每天在古墓里和粽子玩命，结果当场绑定【奇葩每日签到系统"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "乙女游戏哪来的面板和血条啊喂？",
-            "change": "+2"
-          },
-          {
-            "title": "禁地群穿：我成为了张家族长",
-            "change": "+1"
-          },
-          {
-            "title": "盗墓：会坏掉的！你们拿出去",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "什么变态，那是我老公",
-            "change": "-2"
-          },
-          {
-            "title": "盗墓：我那柔弱不能自理的本体",
-            "change": "-2"
-          },
-          {
-            "title": "青霉素发家，张家女在盗笔当富豪",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "禁地群穿：我成为了张家族长",
-            "growth": "+1.1万"
-          },
-          {
-            "title": "乙女游戏哪来的面板和血条啊喂？",
-            "growth": "+7000"
-          },
-          {
-            "title": "盗墓：会坏掉的！你们拿出去",
-            "growth": "+4000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n盗墓笔记同人占据榜单近半席位（Top20中约8部），叠加无限流+系统面板框架成主流。悬疑外壳下融合迪化、装逼、万人迷等爽感元素，恐怖氛围弱化、搞笑解压强化。乙游+惊悚副本、女性向群穿等新变体快速崛起。\n\n**📖 读者偏好**\n偏好\"无CP+反差爽感\"人设——病弱/柔弱外表与隐藏大佬实力形成戏剧张力。盗笔+张家/麒麟/九门等高辨识度IP仍是流量密码，轻恐、群像、系统金手指缺一不可。\n\n**🆕 新上榜作品**\n《盗墓：我就是个拿画笔的》以画师穿越盗墓世界切入，延续老九门→九门三代的叙事路线，与同类作品差异化在于主角非系统绑定型。\n\n**📉 掉出榜单**\n《从南部档案馆靠签到混成九门团宠》——南部档案+签到系统组合已被多部作品稀释，新鲜感下降。\n\n**💡 值得关注**\n《乙女游戏哪来的面板和血条啊喂？》排名+2，将乙女恋爱与诡异副本强绑定，弹幕+病娇+反杀结构新颖；《禁地群穿》+1，群穿扮演赛道热度攀升。"
-      },
       "books": [
         {
           "title": "没血条？你管这绝美NPC叫病弱",
@@ -2235,62 +1653,6 @@
     },
     {
       "name": "古言脑洞",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "异世界妈妈控制欲不太对劲！？"
-        ],
-        "dropped_books": [
-          {
-            "title": "男多女少：他们都想让我负责",
-            "intro": "评分刚出~【甜宠+空间+非1v1+轻松搞笑+非女强】 永昭国男女比例10：1。 女子年满二十，若夫君不足四人，官府便会亲自安排。 苏知渺一朝穿越，只想低调苟活。 谁知道。 一个冷面王爷，一个温柔王妃，"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "对，我在古代当神女",
-            "change": "+3"
-          },
-          {
-            "title": "被诊出喜脉后，朕成了病弱团宠",
-            "change": "+2"
-          },
-          {
-            "title": "穿越重生，她靠弹幕在古代翻身",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "三岁萌娃双穿，投喂古代摄政王",
-            "change": "-3"
-          },
-          {
-            "title": "穿成老祖宗后，我改写全家炮灰命",
-            "change": "-2"
-          },
-          {
-            "title": "满朝听见我心声后，长公主护短了",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "被诊出喜脉后，朕成了病弱团宠",
-            "growth": "+5000"
-          },
-          {
-            "title": "没人告诉我兽世要会抡大锤啊！",
-            "growth": "+3000"
-          },
-          {
-            "title": "对，我在古代当神女",
-            "growth": "+3000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n穿书+系统+团宠三件套稳居主流，读心/吃瓜/弹幕类信息差金手指高频出现。皇室、公主、权贵女配逆袭叙事占主导，玄学萌宝、女尊兽世等小众题材稳步上榜。\n\n**📖 读者偏好**\n偏好\"身份碾压+虐渣爽感\"——开局即高配（公主/郡主/老祖宗），搭配系统任务或心声曝光制造戏剧冲突。女主反套路、不内耗、人设鲜明是共性卖点。\n\n**🆕 新上榜作品**\n《异世界妈妈控制欲不太对劲！？》以癫狂+异世界+控制欲母亲为卖点，定位\"猎奇发疯文学\"，与榜单主流爽文形成差异化。\n\n**📉 掉出榜单**\n《男多女少：他们都想让我负责》——女多男少+甜宠+空间设定赛道拥挤，辨识度不足。\n\n**💡 值得关注**\n《对，我在古代当神女》+3，无cp+万人迷+呼风唤雨高概念设定符合近年\"大女主\"趋势；《天幕》系列（两条上榜）以\"天幕曝光\"作为新型信息流金手指，潜力可观。"
-      },
       "books": [
         {
           "title": "女配？我爹是皇帝，你最好也是哦",
@@ -2456,55 +1818,6 @@
     },
     {
       "name": "快穿",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "快穿：路人，但万人迷",
-            "change": "+2"
-          },
-          {
-            "title": "快穿：恶霸如何搞救赎",
-            "change": "+2"
-          },
-          {
-            "title": "快穿：恶狗又疯又坏总缠着不放",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "快穿：忘本嫂子已上线",
-            "change": "-2"
-          },
-          {
-            "title": "快穿男主他不分手了！",
-            "change": "-2"
-          },
-          {
-            "title": "快穿：笨蛋美人，但恶毒初恋",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "快穿：偏偏我过得最好",
-            "growth": "+9000"
-          },
-          {
-            "title": "快穿：心机女配装小白花上位",
-            "growth": "+4000"
-          },
-          {
-            "title": "娇软小漂亮天生就要被男人觊觎",
-            "growth": "+3000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n\"万人迷+甜宠+切片/1vn\"为绝对主流，恶意女配/绿茶/心机女主逆袭抢男主类叙事泛滥。双洁、男全c成为标配标签，男主黑化强制爱、病娇、偏执狂类XP细分赛道成熟。\n\n**📖 读者偏好**\n偏好\"清醒利己+反圣母\"女主——精致利己主义、绿茶心机、笨蛋美人恶毒等设定持续走俏。沉浸式扮演、位面任务完成度高、节奏快的作品更易留存。\n\n**🆕 新上榜作品**\n无新书入榜，榜单结构稳定。\n\n**📉 掉出榜单**\n无掉榜作品，整体格局延续上一周期。\n\n**💡 值得关注**\n《快穿：路人，但万人迷》+2，走\"低调路人甲\"反套路万人迷路线，区别于主动撩拨型；《快穿：恶霸如何搞救赎》+2，貌美下位男+多cp结构契合女嬷读者群体；榜单固化明显，新作突围难度加大。"
-      },
       "books": [
         {
           "title": "快穿：管好自己，莫渡他人",
@@ -2670,62 +1983,6 @@
     },
     {
       "name": "青春甜宠",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "宝贝，别对我心软"
-        ],
-        "dropped_books": [
-          {
-            "title": "弟弟用我照片，网恋疯批太子爷",
-            "intro": "刚开分，会涨【网骗掉马+微强制爱+甜宠+双洁】乖乖女重生变坏VS疯批混血天龙人 上一世，乔书棠的弟弟用她照片网恋，噢不，是网骗，异国财阀继承人凌珩，不曾想对方是个疯批天龙人。掉马后，被他报复性羞辱导致"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "重生后，我哄骗呆萌学霸嫁入豪门",
-            "change": "+4"
-          },
-          {
-            "title": "我，怂且恶毒",
-            "change": "+4"
-          },
-          {
-            "title": "玩弄感情的漂亮妹宝是要被狠狠",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "给网恋对象发辣照，京圈太子爷疯",
-            "change": "-2"
-          },
-          {
-            "title": "不是说好不喜欢她的吗",
-            "change": "-2"
-          },
-          {
-            "title": "宝宝乖，轻点撩",
-            "change": "-2"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "重生后，我哄骗呆萌学霸嫁入豪门",
-            "growth": "+1.9万"
-          },
-          {
-            "title": "大反派的作精女友觉醒后，更作了",
-            "growth": "+7000"
-          },
-          {
-            "title": "穿成捞子前女友和男主网恋翻车后",
-            "growth": "+6000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n\"重生+校园+网恋掉马\"三件套成绝对主流，Top20中近半含重生元素，网恋设定渗透到前10名。\"京圈/财阀太子爷+反差女主\"仍是核心配方，强制爱、训狗、万人迷等强势标签密集出现，男主人设趋于\"疯批/偏执/反差\"。\n\n**📖 读者偏好**\n偏爱\"恶女觉醒\"\"反套路女配\"\"真香打脸\"叙事，女主从依附转向利己清醒，但同时保留甜宠内核。1vN万人迷与1v1双洁分庭抗礼，男主全洁、女恶但被爱的设定吸睛明显。\n\n**🆕 新上榜作品**\n《宝贝，别对我心软》主打双向暗恋+伪浪子真纯情，京大校园背景，延续\"高反差男主+温软女主\"主流模板。\n\n**📉 掉出榜单**\n《弟弟用我照片，网恋疯批太子爷》属网恋掉马+微强制爱赛道，受头部同质化挤压。\n\n**💡 值得关注**\n\"网恋掉马×疯批太子爷\"组合在榜内仍有6席以上存量，但入榜门槛已抬升至15万+在读，新作突围难度加大。"
-      },
       "books": [
         {
           "title": "许南风，至今夏",
@@ -2891,63 +2148,6 @@
     },
     {
       "name": "星光璀璨",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "一曲大风吹，吹塌了半个华语乐坛",
-          "绿茶主播靠撒娇拿捏神豪团"
-        ],
-        "dropped_books": [
-          {
-            "title": "直播万人迷：主播的101个金主",
-            "intro": "【男主播 万人迷 日常+直播 全能型主播】 谢钰安在好友日复一日的疯狂安利下，下载了星云直播APP。 本想着秉持干一业敬一业爱一业的准则，顺便从中赚点买房钱，结果—— 开播第一天，在线人数破万。 开播"
-          },
-          {
-            "title": "京圈大佬抱着哄之京婚难逃",
-            "intro": "【京圈太子爷+百变国际顶流+娱乐圈+轻松甜文+1V1】 【京圈太子爷vs国际顶流女明星】 京圈太子爷陆靖尧，商场上杀伐果断，冷漠无情。 陆老爷子天天散布孙子性冷淡的谣言。 “别费那个劲了，那小子不是性"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "小土包男主播，无才但实在貌美",
-            "change": "+2"
-          },
-          {
-            "title": "京圈大小姐成天后了！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "新人主播哪那么多神豪死亡守护？",
-            "change": "-5"
-          },
-          {
-            "title": "文娱：我在作曲部的搬运日常",
-            "change": "-3"
-          },
-          {
-            "title": "勇闯娱乐圈，从群演干到影后！",
-            "change": "-2"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "万人迷神颜顶流只想演炮灰",
-            "growth": "+2.3万"
-          },
-          {
-            "title": "小土包男主播，无才但实在貌美",
-            "growth": "+9000"
-          },
-          {
-            "title": "说好当站姐，这黑子系统什么鬼？",
-            "growth": "+7000"
-          }
-        ],
-        "summary": "<think>Let me analyze the data carefully and generate a structured report for the 番茄小说「星光璀璨」(Entertainment/Star) category new book chart.\n\nKey observations:\n1. Top 20 books in the entertainment/celebrity category\n2. Most books involve 娱乐圈 (entertainment industry), 直播 (livestreaming), 团播 (group streaming)\n3. Common tropes: 万人迷 (everybody's crush), 系统 (system), 穿书/穿越 (transmigration), 重生 (rebirth), 神豪 (rich benefactors), 爽文 (power fantasy)\n4. Many books about 团播/个播 (group/individual streaming) - this seems to be a hot sub-genre\n\nTrends:\n- 娱乐圈 + 系统/穿书 + 爽文 is the dominant combo\n- 直播/团播 sub-genre is very saturated (books 9, 10, 11, 16, 17, 20 - about 6 out of 20 are streaming-related)\n- 万人迷 + 神豪 is also common\n- 神颜 (god-tier looks) is a recurring element\n- Multiple books have \"评分刚出\" notes indicating they just got scored\n\nNew entries:\n- 《一曲大风吹，吹塌了半个华语乐坛》 - 文娱系统 + 穿越 + 音乐\n- 《绿茶主播靠撒娇拿捏神豪团》 - 团播 + 绿茶女主 + 雄竞\n\nDropped off:\n- 《直播万人迷：主播的101个金主》 - 男主万人迷直播 - possibly saturated\n- 《京圈大佬抱着哄之京婚难逃》 - 京圈 + 顶流 - the 京圈 trope might be getting oversaturated\n\nNotable works for differentiation:\n- 《秦导，你拍的剧火爆全球了》 - director perspective, unique angle\n- 《女变男：顾鱼的练习生之旅》 - 性别转换 + 练习生, unique\n- 《睁眼！神豪的作死前爱播重生了！》 - 1vN 雄竞 + 娇气作精\n- 《黑红女星穿到了女男平等的新世界》 - 镜像世界 + 女本位, very unique\n\nLet me write the report in Chinese, concise, industry-style.</think>\n\n**🔥 题材趋势**\n\"星光璀璨\"分类以娱乐圈+直播为核心赛道，穿书/重生"
-      },
       "books": [
         {
           "title": "万人迷神颜顶流只想演炮灰",
@@ -3113,62 +2313,6 @@
     },
     {
       "name": "女频悬疑",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "豪门归位：真千金她来自刑侦九处"
-        ],
-        "dropped_books": [
-          {
-            "title": "离婚后，我出马了",
-            "intro": "32岁的东北姑娘苏冉冉，做了八年全职太太，却被凤凰男前夫以“克夫、没本事”为由净身出户，连老家的破房子都差点被抢走。走投无路之际，她意外激活了奶奶留下的旧堂单，被胡黄白柳灰五大家仙家选中，成了出马弟子"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "水厂埋凶二十年",
-            "change": "+2"
-          },
-          {
-            "title": "盗笔：猫鼠人一家亲",
-            "change": "+1"
-          },
-          {
-            "title": "盗墓之银铃砂",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "盗墓：挖野菜的那帮人",
-            "change": "-3"
-          },
-          {
-            "title": "别争了，小哥这条命我宠回来的",
-            "change": "-2"
-          },
-          {
-            "title": "诡秘偷盗者去盗墓专业对口吗？",
-            "change": "-2"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "盗笔：猫鼠人一家亲",
-            "growth": "+5000"
-          },
-          {
-            "title": "盗墓：开棺挖到黑爷的小福晋",
-            "growth": "+2000"
-          },
-          {
-            "title": "三七穿越盗墓世界",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "<think>The user wants me to analyze the current Top 20 of 番茄小说「女频悬疑」分类新书榜 in a structured format. Let me analyze the data carefully.\n\nLooking at the list:\n1. Multiple \"盗墓/盗笔\" themed books - this is clearly dominant\n2. Several \"刑侦/破案\" themed books\n3. Common elements: OOC, 原创女主, 无CP, 穿越, 重生, 全员单箭头/万人迷, 团宠\n\nLet me count:\n- 盗墓/盗笔 IP derivative: #1, #3, #4, #5, #6, #7, #10, #12, #14, #15, #16, #17, #18 - that's about 13 out of 20!\n- 刑侦/破案: #2, #8, #11, #13 - 4 books\n- 灵异/僵尸 (九叔): #19, #20 - 2 books\n- 悬疑剧情: #9 (水厂埋凶二十年) - 1 book\n\nThe new entry: 《豪门归位：真千金她来自刑侦九处》\nThe dropped: 《离婚后，我出马了》- which seems to be about 出马仙 (folk religion/shamanism) + 离婚 genre mix\n\nReader preferences: 万人迷/团宠/穿越/OOC - sweet/satisfying reads with powerful female MCs\n\nLet me draft the response in the required format, keeping within 250 characters total.\n\nLet me count characters carefully and write in concise industry-report style.</think>\n\n**🔥 题材趋势**\n盗墓笔记/南部档案同人占据榜单13席，\"盗墓+原创女主+OOC+万人迷/团宠\"形成绝对主流；刑侦破案（4席）与林正英僵尸IP（2席）为次梯队，\"穿越+大女主开挂\"是扎堆设定。\n\n**📖 读者偏好**\n偏好爽感强、节奏快的甜宠向悬疑，女主多为满级大佬/万人迷人设，金手指集中在\"前世记忆碾压\"\"满级穿越\"\"团宠开挂\"三类。\n\n**🆕 新上榜作品**\n《豪门归位：真千金她来自刑侦九处》——\"刑侦+豪门真假千金\"双题材叠加，强女主人设与打脸养女"
-      },
       "books": [
         {
           "title": "盗墓：长生都是有纹身的",
@@ -3334,67 +2478,6 @@
     },
     {
       "name": "职场婚恋",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "晚年底牌",
-          "女穿男后我爆红全网"
-        ],
-        "dropped_books": [
-          {
-            "title": "请你依赖我",
-            "intro": "空军中尉沈砚辞 × 协和心外科医生时愿 第一次见面，她在医院楼梯间撞见别人踮脚吻他。第二次，他浑身是血扛着战友冲进急诊，说她手抖不适合做医生。第三次，他穿过一整个房间的人走到她面前，叫出她的名字。 他"
-          },
-          {
-            "title": "怀孕三月，死去的丈夫失忆回来了",
-            "intro": "天灾水患那日，廖晴在无人得知的地方杀了自己新婚半年的丈夫周鸣山，亲眼看着他身影沉进水底彻底消失。 她向来不是什么好女人，仗着好家境嚣张跋扈，坏事做尽，无论什么总有自己的一套道理和理由，甚至被至亲赶去这"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "女儿惨死，我亲手覆灭仇人全家",
-            "change": "+4"
-          },
-          {
-            "title": "村花红红",
-            "change": "+3"
-          },
-          {
-            "title": "体制内：我的太太是我的步步为营",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "宋医生，新婚请指教",
-            "change": "-5"
-          },
-          {
-            "title": "清冷万人迷每个世界都被强取豪夺",
-            "change": "-5"
-          },
-          {
-            "title": "相亲相到高中物理老师",
-            "change": "-3"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "全网骂我杀人犯时，我在守国门",
-            "growth": "+1.3万"
-          },
-          {
-            "title": "恶毒女友提分手，太子爷他疯批了",
-            "growth": "+1.1万"
-          },
-          {
-            "title": "触礁对岸",
-            "growth": "+4000"
-          }
-        ],
-        "summary": "**🔥 题材趋势**\n医生职业文持续霸榜，前五中三部涉及医生身份，结合网恋奔现、先婚后爱等高张力设定；穿书/重生设定密集出现于第3、9、14、16位，女性复仇与觉醒题材走强。出租屋文学、年龄差恋恋、追妻火葬场构成三大稳定细分。\n\n**📖 读者偏好**\n读者偏爱禁忌感与拉扯感：师生、医医、体制内权力差等设定受欢迎；同时追求女主独立人格觉醒，\"觉醒—反击—成长\"叙事模板高频复用。\n\n**🆕 新上榜作品**\n《晚年底牌》聚焦晚年女性觉醒与复仇，填补银发赛道；《女穿男后我爆红全网》为清冷神颜万人迷题材，瞄准性别反转爽感。\n\n**📉 掉出榜单**\n军事医生与\"杀夫\"悬疑题材掉榜，反映硬核悬疑类在婚恋榜后继乏力。\n\n**💡 值得关注**\n医生×职业文仍是流量密码，建议新人结合体制内、留学等新职业背景做差异化；老年女性与穿男是当前蓝海切口。"
-      },
       "books": [
         {
           "title": "触礁对岸",
@@ -3560,67 +2643,6 @@
     },
     {
       "name": "豪门总裁",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "金丝雀守则，别拆穿大佬装瞎",
-          "原创乙女向短篇"
-        ],
-        "dropped_books": [
-          {
-            "title": "又娇又软的姑娘瞥一眼，京爷酥了",
-            "intro": "【甜宠+爹系大佬+十岁年龄差+双洁+位高权重大佬】 金秋十月，桂花盛开。 初见，他坐于车内，嘴里咬着烟，身着白色衬衫套黑缎面马甲，面容俊 美端正，骨相绝佳，气质清冷矜贵又透出一股痞气。 她立于车外，鬼"
-          },
-          {
-            "title": "掌寰墨阎王，独宠掌中娇",
-            "intro": "墨清绝，全球经济金字塔之巅，地下暗网绝对暴君。 势力遍布全球，麾下影阁十分钟掌握全球情报。 触犯底线者，24小时内人间蒸发。 然而，当一个17岁的小丫头闯入他的三米禁区后，画风突变！ → 惹她生气的豪"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "春夜溺吻",
-            "change": "+3"
-          },
-          {
-            "title": "京圈太子爷：宝宝勾心又勾身呢",
-            "change": "+3"
-          },
-          {
-            "title": "作精不吸血后，舔狗糙汉追着亲",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "动不动咳血的我与爱脑补的哥哥们",
-            "change": "-2"
-          },
-          {
-            "title": "他跪她",
-            "change": "-2"
-          },
-          {
-            "title": "玩脱了，她不要他了",
-            "change": "-2"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "作精不吸血后，舔狗糙汉追着亲",
-            "growth": "+6.3万"
-          },
-          {
-            "title": "春夜溺吻",
-            "growth": "+2.0万"
-          },
-          {
-            "title": "网恋骗了太子爷，四胞胎瞒不住了",
-            "growth": "+1.6万"
-          }
-        ],
-        "summary": "<think>Let me analyze the data provided about Tomato Novel's \"Wealthy CEO\" category new book rankings.\n\nKey observations:\n1. Top 20 books - analyzing themes:\n- Heavy presence of 穿书 (transmigration into book plots) - Books 1, 2, 3, 4, 5, 7, 11, 12, 15, 17, 18\n- 京圈 (Beijing elite circle) tropes - Books 3, 9, 13, 14, 19\n- 强制爱/囚禁 (forced love/imprisonment) - Books 7, 11, 14, 18, 20\n- 偏执/疯批 (obsessive/crazy male leads) - Books 1, 7, 11, 14, 18, 19\n- 重生 (rebirth) - Books 7, 8, 17\n- 网恋 (online dating) - Books 3, 7\n- 网恋奔现 (online dating meetup) - Books 3, 7\n- 先婚后爱 (marriage first, love later) - Books 2, 5, 6\n- 带球跑 (running with child) - Books 3, 16\n- 病弱 (sickly) - Book 12\n- 普女万人迷 (ordinary girl, popular with men) - Book 15\n- 追妻火葬场 (wife-chase crematorium) - Book 16\n\n2. Reader preferences: Strong preference for 甜虐交织 (sweet-bitter mix), 强制爱 (forced love), 偏执男主 (obsessive male leads), 穿书设定 (book transmigration setup)\n\n3. New entries:\n- 《金丝雀守则，别拆穿大佬装瞎》- 卧底+东南亚世家+病娇\n- 《原创乙女向短篇》- 乙女向短篇合集\n\n4. Dropped:\n- 《又娇又软的姑娘瞥一眼，京爷酥了》- 甜宠+爹系大佬\n- 《掌寰墨阎王，独宠掌中娇》- 地下暗网暴君+独宠\n\n5. Rising: 春夜溺吻+3, 京圈太子爷+3, 作精+1\n6. Falling: 咳血的我-2,</think>"
-      },
       "books": [
         {
           "title": "作精不吸血后，舔狗糙汉追着亲",
@@ -3786,62 +2808,6 @@
     },
     {
       "name": "民国言情",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "穿成翠萍妹妹后，我攻略了李涯"
-        ],
-        "dropped_books": [
-          {
-            "title": "楠姝",
-            "intro": "古有上神，名曰楠姝。 一朝坟墓被盗，不得不重入世间寻回自己的陪葬品。 血光冲天的大帅府； 全员被屠的诡异村庄； 九世孽缘的人妖殊途； …… 这些突然现世的陪葬品，似乎都与她那死了上千年的亡夫关系匪浅？"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "身穿老九门，恶犬她要贴身驯养",
-            "change": "+4"
-          },
-          {
-            "title": "南部档案：师姐老想退休了",
-            "change": "+1"
-          },
-          {
-            "title": "民国爱情：烟雨长安渡",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "令颐小姐：干妈是个交际花",
-            "change": "-1"
-          },
-          {
-            "title": "哥哥亲手养大的妹妹竟是卧底",
-            "change": "-1"
-          },
-          {
-            "title": "偷军火炸炮楼，四岁萌宝横着走！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "陈皮阿四之多情种",
-            "growth": "+6000"
-          },
-          {
-            "title": "穿成五零姨太太，卷走财产逃港城",
-            "growth": "+3000"
-          },
-          {
-            "title": "南部档案：师姐老想退休了",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "<think>Let me analyze this data for 番茄小说's \"民国言情\" category new book rankings and provide a structured analysis.\n\nKey observations:\n1. Top 20 list with reading numbers ranging from ~5000 to 50000\n2. Common themes: 穿越 (transmigration), 民国 (republican era), 盗墓衍生 (tomb raiding derivative), 谍战 (spy warfare), 宅斗 (household intrigue), 军阀 (warlord)\n3. Multiple works tied to 老九门/盗墓笔记 IP (盗墓 derivative works are very prominent)\n4. New entry: 穿成翠萍妹妹后，我攻略了李涯 (spy war derivative)\n5. Dropped: 楠姝 (appears to be 古风/玄幻 hybrid with 大帅府 element)\n\nLet me structure the output as requested.</think>\n\n**🔥 题材趋势**\n民国言情赛道呈现\"IP衍生+穿越系统\"双主线格局：盗墓笔记/老九门同人占据约25%席位，谍战潜伏同人和军阀宅斗并列第二梯队。穿越/重生、系统任务、一体双魂等设定高频扎堆，少帅/姨太太/交际花等身份标签同质化明显。\n\n**📖 读者偏好**\n读者偏爱\"甜虐交织+强设定金手指\"，偏好间谍身份反差、宅斗扮猪吃虎及民国黑化疯批男主；金手指以系统绑定、物资空间、马甲多重身份为主流。\n\n**🆕 新上榜作品**\n《穿成翠萍妹妹后，我攻略了李涯》——潜伏IP同人+生死绑定系统，敌对阵营双向救赎，差异化突出。\n\n**📉 掉出榜单**\n《楠姝》——古神复苏混搭大帅府宅斗，题材杂糅偏离纯言情赛道，受众模糊导致掉出。\n\n**💡 值得关注**\n《夜夜听禅，步步生欲》以\"佛子破戒+旗袍美人\"暗黑美学切入，禁忌感强、辨识度高；《穿越民国：翠花勇闯特务圈》无金手指中年女性谍战视角，在穿越女频中形成反差，值得跟踪。"
-      },
       "books": [
         {
           "title": "穿成五零姨太太，卷走财产逃港城",
